@@ -1,0 +1,20 @@
+{
+  "name": "digitaljournal-backend",
+  "version": "1.0.0",
+  "description": "DigitalJournal Telegram Backend API",
+  "main": "api/bot.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@vercel/node": "^3.0.0"
+  },
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "author": "xmn",
+  "license": "MIT"
+}
